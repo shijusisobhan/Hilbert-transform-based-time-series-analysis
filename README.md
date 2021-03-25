@@ -1,5 +1,8 @@
 # Hilbert transform based time series analysis of the circadian gene regulatory network
-Matlab code and data for generating figures appeared in the paper [Shiju, S., & Sriram, K. (2019). Hilbert transform based time series analysis of the circadian gene regulatory network, IET System Biology, ISSN : 1751-8849](https://digital-library.theiet.org/content/journals/10.1049/iet-syb.2018.5088)
+## Background
+ Different tools are used to extract different properties of circadian rhythms. Instead of using different
+techniques to obtain different properties of the circadian rhythms, this work propose the Hilbert transform (HT)-based numerical method which can be used to
+extract most of the important circadian properties from the circadian time series. Here we providing Matlab code and data for generating figures appeared in the paper [Shiju, S., & Sriram, K. (2019). Hilbert transform based time series analysis of the circadian gene regulatory network, IET System Biology, ISSN : 1751-8849](https://digital-library.theiet.org/content/journals/10.1049/iet-syb.2018.5088)
 ## Tyson_ode.m
 
 This is a function file that containe ODE of Tyson et.al (1999) model
